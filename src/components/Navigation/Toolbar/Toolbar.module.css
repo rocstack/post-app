@@ -1,0 +1,9 @@
+.Toolbar ul {
+	display: flex;
+	list-style: none;
+	align-items: center;
+}
+
+.Toolbar ul li {
+	padding-right: 10px;
+}
